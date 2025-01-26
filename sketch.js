@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(240, 10);
 
   let noiseLevel = 500;
   let noiseScale = 0.005;
